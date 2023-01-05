@@ -36,6 +36,16 @@ nav ul{
     border-radius: 5px;
     background: #FD6E0A;
 }
+.btn-contact{
+    background:  #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 1px;
+    padding: 18px 35px;
+    height: 64px;
+    border-radius: 5px;
+    color: white;
+}
 .header{
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
